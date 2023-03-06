@@ -1,0 +1,11 @@
+version: "3"
+virtualbrowsers:
+- name: clickup
+  url: https://app.clickup.com/login
+- name: cider
+  url: https://www.cidersecurity.io/
+virtualmachines:
+- name: kubernetes
+  image: instruqt/k3s-v1-25-0
+  shell: /bin/bash
+  machine_type: n1-standard-1
