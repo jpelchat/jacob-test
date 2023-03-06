@@ -1,12 +1,14 @@
-slug: saas-demo
-id: p4mh4csntbga
-title: SaaS Demo
+slug: saas-demo-dev
+id: 0gx9ohgv40xh
+title: DEV - SaaS Demo
 teaser: Get started quickly with a single SaaS container.
 description: Get started quickly with a container-based sandbox host.
 icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
-tags: []
+tags:
+- dev
 owner: instruqt-support
 developers:
 - jacob@instruqt.com
-checksum: "5484183642936595730"
+maintenance: true
+checksum: "18286705823051643040"
 timelimit: 3600
